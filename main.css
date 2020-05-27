@@ -1,11 +1,11 @@
 .hgcatalog{
-width: 10rem;
-height: 10rem;
+width: 20rem;
+height: 20rem;
 transform: scale(1)
 }
 .hgcatalog:hover{
 	
-	background-color: red;
+	background-color: greenyellow;
 	display:inline-flex;
 	align-items:baseline;
 	transition: 200ms ease all;
