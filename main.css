@@ -13,3 +13,17 @@ transform: scale(1)
 	transition: 200ms ease all;
 	cursor:crosshair;
 }
+.reimaginations{
+width: 500px;
+height: 500px;
+transform: scale(1)
+}
+.hgcatalog:hover{
+	width:500px
+    height: 500px
+    transform: scale(1.25)
+	display:inline-flex;
+	align-items:baseline;
+	transition: 200ms ease all;
+	cursor:crosshair;
+}
