@@ -5,7 +5,7 @@ transform: scale(1)
 }
 .hgcatalog:hover{
 	
-	background-color: transparent;
+	background-color: red;
 	display:inline-flex;
 	align-items:baseline;
 	transition: 200ms ease all;
