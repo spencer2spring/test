@@ -6,7 +6,7 @@ transform: scale(1)
 .hgcatalog:hover{
 	widht: 500px;
 	height: 500px;
-	transform: scale(2)
+	transform: scale(1)
 	background-color: greenyellow;
 	display:inline-flex;
 	align-items:baseline;
